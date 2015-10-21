@@ -1,0 +1,17 @@
+.navbar, 
+.navbar-inverse {
+	border-radius: 0px;
+	background-color: #131b23;
+}
+
+body {
+	background-color: #233242;
+	color: cornsilk;
+}
+
+.chart {
+	width: 100%;
+	height: 80%;
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
